@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Desafio1/">
+    <Project Path="Desafio1/RegistrosVendas/RegistrosVendas.csproj" Id="597cb464-a1b5-4c45-ac0f-f6dfcc2d15d0" />
+  </Folder>
+  <Folder Name="/Desafio2/">
+    <Project Path="Desafio2/MovimentacaoProdutos/MovimentacaoProdutos.csproj" Id="d5452291-46ca-4070-a5ec-72ad09a3cfd0" />
+  </Folder>
+  <Folder Name="/Desafio3/">
+    <Project Path="Desafio3/JurosData/JurosData.csproj" Id="2f010082-dbec-49a2-8f5a-66ba3c1d177b" />
+  </Folder>
+</Solution>
